@@ -1,2 +1,2 @@
 # StepChampSocket
-This is a small Websocket server written in PHP
+This is an example of a simple PHP Websocket server
